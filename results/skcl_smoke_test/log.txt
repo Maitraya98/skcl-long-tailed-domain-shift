@@ -1,0 +1,7 @@
+Epoch 0  lr=0.02000  CE=2.0067  SKCL=3.9077  TrainAcc=35.98  || Test Top1=28.90  Many=35.79  Medium=1.35  Few=0.00
+Epoch 1  lr=0.04000  CE=1.4738  SKCL=3.6165  TrainAcc=43.36  || Test Top1=32.89  Many=33.41  Medium=30.80  Few=0.00
+Epoch 2  lr=0.06000  CE=1.3363  SKCL=3.4462  TrainAcc=48.25  || Test Top1=32.03  Many=29.52  Medium=42.05  Few=0.00
+Epoch 3  lr=0.08000  CE=1.2377  SKCL=3.3099  TrainAcc=50.19  || Test Top1=43.73  Many=44.10  Medium=42.25  Few=0.00
+Epoch 4  lr=0.10000  CE=1.1007  SKCL=3.1625  TrainAcc=54.28  || Test Top1=45.00  Many=50.54  Medium=22.85  Few=0.00
+
+Best Top-1: 45.00

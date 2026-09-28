@@ -1,0 +1,43 @@
+# Datasets (RobotCar/ROAD are academic-licence only, never publish)
+data/
+road_dataset/
+robotcar_extracted/
+*.tar
+*.tar.gz
+*.zip
+# Checkpoints and large outputs
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+wandb/
+# Cluster logs
+logs/
+*.out
+*.err
+# Caches
+.cache/
+hf_cache/
+huggingface/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Not part of this project / not redistributable
+bdd100k_export/
+ConCutMix/dataset/iNaturalist18/
+ConCutMix/dataset/ImageNet_LT/
+ConCutMix/dataset/Places_LT/
+results_backup_*/
+# Not part of this project / not redistributable
+bdd100k_export/
+ConCutMix/dataset/iNaturalist18/
+ConCutMix/dataset/ImageNet_LT/
+ConCutMix/dataset/Places_LT/
+results_backup_*/
+# Not part of this project / not redistributable
+bdd100k_export/
+ConCutMix/dataset/iNaturalist18/
+ConCutMix/dataset/ImageNet_LT/
+ConCutMix/dataset/Places_LT/
+results_backup_*/

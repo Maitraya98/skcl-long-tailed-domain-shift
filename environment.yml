@@ -1,0 +1,6 @@
+name: skcl
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+prefix: /home/woody/rlvl/rlvl167v/software/private/conda/envs/skcl

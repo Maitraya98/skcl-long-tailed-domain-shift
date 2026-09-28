@@ -1,0 +1,102 @@
+Epoch 0  lr=0.02000  CE=0.8960  SCL=1.1377  TrainAcc=64.10
+Epoch 1  lr=0.04000  CE=0.5330  SCL=0.8989  TrainAcc=75.69
+Epoch 2  lr=0.06000  CE=0.4630  SCL=0.8168  TrainAcc=79.48
+Epoch 3  lr=0.08000  CE=0.4008  SCL=0.7599  TrainAcc=82.22
+Epoch 4  lr=0.10000  CE=0.3703  SCL=0.7075  TrainAcc=83.72  || Day Top1=80.91 {'Car': 84.6, 'Ped': 83.9, 'Cyc': 62.9}  || Night Top1=81.34 {'Car': 91.2, 'Ped': 82.9, 'Cyc': 34.2}  || DomainGap=-0.43
+Epoch 5  lr=0.10000  CE=0.3355  SCL=0.6763  TrainAcc=85.39
+Epoch 6  lr=0.09997  CE=0.2883  SCL=0.6281  TrainAcc=87.64
+Epoch 7  lr=0.09989  CE=0.2678  SCL=0.6027  TrainAcc=88.52
+Epoch 8  lr=0.09975  CE=0.2605  SCL=0.5870  TrainAcc=88.69
+Epoch 9  lr=0.09956  CE=0.2419  SCL=0.5700  TrainAcc=89.26  || Day Top1=83.28 {'Car': 99.0, 'Ped': 81.8, 'Cyc': 56.3}  || Night Top1=85.74 {'Car': 99.1, 'Ped': 85.4, 'Cyc': 32.7}  || DomainGap=-2.46
+Epoch 10  lr=0.09932  CE=0.2310  SCL=0.5471  TrainAcc=90.18
+Epoch 11  lr=0.09902  CE=0.2237  SCL=0.5415  TrainAcc=90.22
+Epoch 12  lr=0.09867  CE=0.2159  SCL=0.5312  TrainAcc=90.85
+Epoch 13  lr=0.09826  CE=0.2136  SCL=0.5289  TrainAcc=90.80
+Epoch 14  lr=0.09780  CE=0.2049  SCL=0.5207  TrainAcc=91.24  || Day Top1=87.09 {'Car': 84.4, 'Ped': 90.5, 'Cyc': 80.8}  || Night Top1=79.43 {'Car': 77.2, 'Ped': 85.9, 'Cyc': 59.4}  || DomainGap=7.66
+Epoch 15  lr=0.09729  CE=0.2049  SCL=0.5162  TrainAcc=91.09
+Epoch 16  lr=0.09673  CE=0.1992  SCL=0.5002  TrainAcc=91.50
+Epoch 17  lr=0.09611  CE=0.1853  SCL=0.4945  TrainAcc=92.24
+Epoch 18  lr=0.09545  CE=0.2009  SCL=0.4965  TrainAcc=91.35
+Epoch 19  lr=0.09474  CE=0.1784  SCL=0.4858  TrainAcc=92.31  || Day Top1=83.30 {'Car': 99.0, 'Ped': 78.0, 'Cyc': 69.5}  || Night Top1=78.40 {'Car': 98.4, 'Ped': 64.5, 'Cyc': 59.9}  || DomainGap=4.90
+Epoch 20  lr=0.09397  CE=0.1801  SCL=0.4763  TrainAcc=92.16
+Epoch 21  lr=0.09316  CE=0.1939  SCL=0.4852  TrainAcc=91.69
+Epoch 22  lr=0.09230  CE=0.1743  SCL=0.4790  TrainAcc=92.54
+Epoch 23  lr=0.09140  CE=0.1683  SCL=0.4661  TrainAcc=92.75
+Epoch 24  lr=0.09045  CE=0.1829  SCL=0.4733  TrainAcc=92.14  || Day Top1=81.91 {'Car': 83.4, 'Ped': 78.8, 'Cyc': 89.5}  || Night Top1=71.94 {'Car': 66.7, 'Ped': 77.4, 'Cyc': 68.3}  || DomainGap=9.97
+Epoch 25  lr=0.08946  CE=0.1690  SCL=0.4586  TrainAcc=92.86
+Epoch 26  lr=0.08842  CE=0.1579  SCL=0.4461  TrainAcc=93.32
+Epoch 27  lr=0.08734  CE=0.1517  SCL=0.4447  TrainAcc=93.30
+Epoch 28  lr=0.08622  CE=0.1605  SCL=0.4498  TrainAcc=92.97
+Epoch 29  lr=0.08506  CE=0.1489  SCL=0.4416  TrainAcc=93.56  || Day Top1=65.36 {'Car': 99.5, 'Ped': 59.0, 'Cyc': 17.5}  || Night Top1=75.19 {'Car': 99.3, 'Ped': 67.6, 'Cyc': 11.9}  || DomainGap=-9.83
+Epoch 30  lr=0.08386  CE=0.1529  SCL=0.4379  TrainAcc=93.32
+Epoch 31  lr=0.08263  CE=0.1517  SCL=0.4438  TrainAcc=93.62
+Epoch 32  lr=0.08136  CE=0.1409  SCL=0.4261  TrainAcc=93.94
+Epoch 33  lr=0.08005  CE=0.1432  SCL=0.4291  TrainAcc=93.80
+Epoch 34  lr=0.07872  CE=0.1391  SCL=0.4263  TrainAcc=94.10  || Day Top1=90.66 {'Car': 91.7, 'Ped': 92.9, 'Cyc': 80.7}  || Night Top1=85.27 {'Car': 80.2, 'Ped': 96.8, 'Cyc': 53.5}  || DomainGap=5.39
+Epoch 35  lr=0.07735  CE=0.1351  SCL=0.4147  TrainAcc=94.20
+Epoch 36  lr=0.07595  CE=0.1338  SCL=0.4111  TrainAcc=94.18
+Epoch 37  lr=0.07452  CE=0.1264  SCL=0.4016  TrainAcc=94.61
+Epoch 38  lr=0.07307  CE=0.1286  SCL=0.4049  TrainAcc=94.47
+Epoch 39  lr=0.07159  CE=0.1220  SCL=0.3981  TrainAcc=94.73  || Day Top1=92.50 {'Car': 96.8, 'Ped': 93.0, 'Cyc': 81.9}  || Night Top1=92.09 {'Car': 97.1, 'Ped': 96.3, 'Cyc': 53.0}  || DomainGap=0.41
+Epoch 40  lr=0.07008  CE=0.1174  SCL=0.3935  TrainAcc=94.82
+Epoch 41  lr=0.06856  CE=0.1204  SCL=0.3944  TrainAcc=94.79
+Epoch 42  lr=0.06701  CE=0.1111  SCL=0.3845  TrainAcc=95.21
+Epoch 43  lr=0.06545  CE=0.1159  SCL=0.3901  TrainAcc=95.08
+Epoch 44  lr=0.06387  CE=0.1130  SCL=0.3857  TrainAcc=95.02  || Day Top1=89.94 {'Car': 92.7, 'Ped': 99.0, 'Cyc': 53.0}  || Night Top1=89.97 {'Car': 97.2, 'Ped': 99.3, 'Cyc': 18.3}  || DomainGap=-0.03
+Epoch 45  lr=0.06227  CE=0.1130  SCL=0.3874  TrainAcc=95.17
+Epoch 46  lr=0.06066  CE=0.1111  SCL=0.3744  TrainAcc=95.23
+Epoch 47  lr=0.05904  CE=0.1021  SCL=0.3599  TrainAcc=95.62
+Epoch 48  lr=0.05741  CE=0.1047  SCL=0.3669  TrainAcc=95.64
+Epoch 49  lr=0.05577  CE=0.1019  SCL=0.3576  TrainAcc=95.66  || Day Top1=87.08 {'Car': 94.5, 'Ped': 82.5, 'Cyc': 87.7}  || Night Top1=76.64 {'Car': 90.7, 'Ped': 62.3, 'Cyc': 84.2}  || DomainGap=10.44
+Epoch 50  lr=0.05413  CE=0.0981  SCL=0.3535  TrainAcc=95.85
+Epoch 51  lr=0.05248  CE=0.0960  SCL=0.3503  TrainAcc=95.91
+Epoch 52  lr=0.05083  CE=0.0909  SCL=0.3409  TrainAcc=96.16
+Epoch 53  lr=0.04917  CE=0.0928  SCL=0.3412  TrainAcc=96.02
+Epoch 54  lr=0.04752  CE=0.0842  SCL=0.3378  TrainAcc=96.52  || Day Top1=91.49 {'Car': 95.7, 'Ped': 92.9, 'Cyc': 78.1}  || Night Top1=91.06 {'Car': 95.2, 'Ped': 97.0, 'Cyc': 47.0}  || DomainGap=0.43
+Epoch 55  lr=0.04587  CE=0.0848  SCL=0.3310  TrainAcc=96.39
+Epoch 56  lr=0.04423  CE=0.0780  SCL=0.3257  TrainAcc=96.61
+Epoch 57  lr=0.04259  CE=0.0812  SCL=0.3265  TrainAcc=96.57
+Epoch 58  lr=0.04096  CE=0.0716  SCL=0.3208  TrainAcc=96.75
+Epoch 59  lr=0.03934  CE=0.0719  SCL=0.3142  TrainAcc=96.98  || Day Top1=91.91 {'Car': 94.8, 'Ped': 97.4, 'Cyc': 66.9}  || Night Top1=88.17 {'Car': 90.4, 'Ped': 98.8, 'Cyc': 31.2}  || DomainGap=3.75
+Epoch 60  lr=0.03773  CE=0.0691  SCL=0.3052  TrainAcc=97.04
+Epoch 61  lr=0.03613  CE=0.0718  SCL=0.3193  TrainAcc=96.93
+Epoch 62  lr=0.03455  CE=0.0660  SCL=0.3010  TrainAcc=97.15
+Epoch 63  lr=0.03299  CE=0.0642  SCL=0.2936  TrainAcc=97.34
+Epoch 64  lr=0.03144  CE=0.0583  SCL=0.2888  TrainAcc=97.47  || Day Top1=91.26 {'Car': 92.1, 'Ped': 94.7, 'Cyc': 77.6}  || Night Top1=89.51 {'Car': 92.0, 'Ped': 95.3, 'Cyc': 53.5}  || DomainGap=1.75
+Epoch 65  lr=0.02992  CE=0.0544  SCL=0.2894  TrainAcc=97.60
+Epoch 66  lr=0.02841  CE=0.0558  SCL=0.2740  TrainAcc=97.56
+Epoch 67  lr=0.02693  CE=0.0457  SCL=0.2626  TrainAcc=98.04
+Epoch 68  lr=0.02548  CE=0.0440  SCL=0.2673  TrainAcc=98.13
+Epoch 69  lr=0.02405  CE=0.0476  SCL=0.2644  TrainAcc=97.94  || Day Top1=92.04 {'Car': 96.0, 'Ped': 92.0, 'Cyc': 84.0}  || Night Top1=90.08 {'Car': 95.2, 'Ped': 93.1, 'Cyc': 55.4}  || DomainGap=1.96
+Epoch 70  lr=0.02265  CE=0.0395  SCL=0.2521  TrainAcc=98.15
+Epoch 71  lr=0.02128  CE=0.0371  SCL=0.2424  TrainAcc=98.40
+Epoch 72  lr=0.01995  CE=0.0342  SCL=0.2345  TrainAcc=98.58
+Epoch 73  lr=0.01864  CE=0.0318  SCL=0.2305  TrainAcc=98.67
+Epoch 74  lr=0.01737  CE=0.0296  SCL=0.2265  TrainAcc=98.73  || Day Top1=92.36 {'Car': 96.9, 'Ped': 92.3, 'Cyc': 83.3}  || Night Top1=90.65 {'Car': 96.8, 'Ped': 91.2, 'Cyc': 62.9}  || DomainGap=1.71
+Epoch 75  lr=0.01614  CE=0.0297  SCL=0.2246  TrainAcc=98.73
+Epoch 76  lr=0.01494  CE=0.0206  SCL=0.2084  TrainAcc=99.12
+Epoch 77  lr=0.01378  CE=0.0203  SCL=0.2009  TrainAcc=99.11
+Epoch 78  lr=0.01266  CE=0.0200  SCL=0.1919  TrainAcc=99.13
+Epoch 79  lr=0.01158  CE=0.0168  SCL=0.1914  TrainAcc=99.28  || Day Top1=93.31 {'Car': 97.3, 'Ped': 94.7, 'Cyc': 80.5}  || Night Top1=92.25 {'Car': 98.5, 'Ped': 95.1, 'Cyc': 54.0}  || DomainGap=1.07
+Epoch 80  lr=0.01054  CE=0.0148  SCL=0.1811  TrainAcc=99.43
+Epoch 81  lr=0.00955  CE=0.0113  SCL=0.1713  TrainAcc=99.52
+Epoch 82  lr=0.00860  CE=0.0091  SCL=0.1613  TrainAcc=99.64
+Epoch 83  lr=0.00770  CE=0.0083  SCL=0.1507  TrainAcc=99.66
+Epoch 84  lr=0.00684  CE=0.0075  SCL=0.1511  TrainAcc=99.71  || Day Top1=92.93 {'Car': 96.7, 'Ped': 95.3, 'Cyc': 76.9}  || Night Top1=93.07 {'Car': 98.5, 'Ped': 96.4, 'Cyc': 55.9}  || DomainGap=-0.15
+Epoch 85  lr=0.00603  CE=0.0050  SCL=0.1405  TrainAcc=99.76
+Epoch 86  lr=0.00526  CE=0.0057  SCL=0.1334  TrainAcc=99.78
+Epoch 87  lr=0.00455  CE=0.0049  SCL=0.1321  TrainAcc=99.81
+Epoch 88  lr=0.00389  CE=0.0039  SCL=0.1222  TrainAcc=99.81
+Epoch 89  lr=0.00327  CE=0.0031  SCL=0.1215  TrainAcc=99.90  || Day Top1=93.18 {'Car': 97.0, 'Ped': 95.8, 'Cyc': 76.2}  || Night Top1=92.14 {'Car': 97.6, 'Ped': 95.7, 'Cyc': 54.0}  || DomainGap=1.03
+Epoch 90  lr=0.00271  CE=0.0029  SCL=0.1179  TrainAcc=99.86
+Epoch 91  lr=0.00220  CE=0.0024  SCL=0.1166  TrainAcc=99.91
+Epoch 92  lr=0.00174  CE=0.0021  SCL=0.1084  TrainAcc=99.91
+Epoch 93  lr=0.00133  CE=0.0022  SCL=0.1079  TrainAcc=99.92
+Epoch 94  lr=0.00098  CE=0.0017  SCL=0.1065  TrainAcc=99.95  || Day Top1=93.06 {'Car': 97.2, 'Ped': 95.6, 'Cyc': 75.6}  || Night Top1=92.20 {'Car': 98.3, 'Ped': 95.8, 'Cyc': 51.0}  || DomainGap=0.87
+Epoch 95  lr=0.00068  CE=0.0016  SCL=0.1044  TrainAcc=99.95
+Epoch 96  lr=0.00044  CE=0.0016  SCL=0.1060  TrainAcc=99.96
+Epoch 97  lr=0.00025  CE=0.0012  SCL=0.1012  TrainAcc=99.97
+Epoch 98  lr=0.00011  CE=0.0020  SCL=0.0989  TrainAcc=99.92
+Epoch 99  lr=0.00003  CE=0.0016  SCL=0.1036  TrainAcc=99.94  || Day Top1=93.21 {'Car': 97.2, 'Ped': 95.7, 'Cyc': 76.3}  || Night Top1=92.35 {'Car': 98.4, 'Ped': 95.7, 'Cyc': 52.5}  || DomainGap=0.86
+
+Best Day Top-1: 93.31

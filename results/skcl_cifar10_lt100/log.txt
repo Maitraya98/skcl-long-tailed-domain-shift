@@ -1,0 +1,202 @@
+Epoch 0  lr=0.02000  CE=2.7604  SKCL=4.3805  TrainAcc=31.73
+Epoch 1  lr=0.04000  CE=1.4324  SKCL=3.8540  TrainAcc=41.05
+Epoch 2  lr=0.06000  CE=1.3108  SKCL=3.6891  TrainAcc=44.95
+Epoch 3  lr=0.08000  CE=1.2318  SKCL=3.5164  TrainAcc=50.64
+Epoch 4  lr=0.10000  CE=1.1795  SKCL=3.4482  TrainAcc=52.71
+Epoch 5  lr=0.10000  CE=1.0708  SKCL=3.3791  TrainAcc=55.43
+Epoch 6  lr=0.09999  CE=0.9770  SKCL=3.2809  TrainAcc=56.38
+Epoch 7  lr=0.09997  CE=0.8914  SKCL=3.1616  TrainAcc=61.16
+Epoch 8  lr=0.09994  CE=0.8709  SKCL=3.0763  TrainAcc=63.48
+Epoch 9  lr=0.09990  CE=0.8069  SKCL=3.0680  TrainAcc=66.15  || Test Top1=45.91  Many=45.29  Medium=48.40  Few=0.00
+Epoch 10  lr=0.09984  CE=0.7644  SKCL=3.0004  TrainAcc=68.12
+Epoch 11  lr=0.09977  CE=0.7387  SKCL=2.9509  TrainAcc=68.83
+Epoch 12  lr=0.09968  CE=0.6981  SKCL=2.8775  TrainAcc=70.99
+Epoch 13  lr=0.09959  CE=0.6559  SKCL=2.8426  TrainAcc=72.74
+Epoch 14  lr=0.09948  CE=0.6445  SKCL=2.8134  TrainAcc=73.27
+Epoch 15  lr=0.09935  CE=0.6127  SKCL=2.7590  TrainAcc=75.20
+Epoch 16  lr=0.09922  CE=0.5885  SKCL=2.7214  TrainAcc=75.52
+Epoch 17  lr=0.09907  CE=0.5656  SKCL=2.6664  TrainAcc=76.56
+Epoch 18  lr=0.09891  CE=0.5232  SKCL=2.6703  TrainAcc=78.65
+Epoch 19  lr=0.09873  CE=0.5369  SKCL=2.6426  TrainAcc=78.04  || Test Top1=57.46  Many=58.11  Medium=54.85  Few=0.00
+Epoch 20  lr=0.09855  CE=0.5267  SKCL=2.5802  TrainAcc=79.10
+Epoch 21  lr=0.09835  CE=0.5041  SKCL=2.6044  TrainAcc=79.67
+Epoch 22  lr=0.09814  CE=0.4947  SKCL=2.5640  TrainAcc=80.29
+Epoch 23  lr=0.09791  CE=0.4733  SKCL=2.5277  TrainAcc=81.12
+Epoch 24  lr=0.09768  CE=0.4793  SKCL=2.5013  TrainAcc=80.75
+Epoch 25  lr=0.09743  CE=0.4554  SKCL=2.4966  TrainAcc=82.12
+Epoch 26  lr=0.09717  CE=0.4259  SKCL=2.4380  TrainAcc=82.76
+Epoch 27  lr=0.09689  CE=0.4417  SKCL=2.4222  TrainAcc=82.87
+Epoch 28  lr=0.09661  CE=0.4287  SKCL=2.4306  TrainAcc=83.15
+Epoch 29  lr=0.09631  CE=0.4075  SKCL=2.4151  TrainAcc=83.81  || Test Top1=68.54  Many=68.58  Medium=68.40  Few=0.00
+Epoch 30  lr=0.09600  CE=0.3943  SKCL=2.3806  TrainAcc=84.61
+Epoch 31  lr=0.09568  CE=0.4087  SKCL=2.4064  TrainAcc=84.89
+Epoch 32  lr=0.09534  CE=0.3856  SKCL=2.3918  TrainAcc=84.25
+Epoch 33  lr=0.09500  CE=0.3926  SKCL=2.3631  TrainAcc=84.26
+Epoch 34  lr=0.09464  CE=0.4056  SKCL=2.3804  TrainAcc=85.18
+Epoch 35  lr=0.09427  CE=0.3473  SKCL=2.3126  TrainAcc=85.87
+Epoch 36  lr=0.09389  CE=0.3575  SKCL=2.2824  TrainAcc=86.40
+Epoch 37  lr=0.09350  CE=0.3588  SKCL=2.2915  TrainAcc=86.14
+Epoch 38  lr=0.09310  CE=0.3459  SKCL=2.2727  TrainAcc=86.45
+Epoch 39  lr=0.09268  CE=0.3274  SKCL=2.2692  TrainAcc=87.18  || Test Top1=67.76  Many=67.91  Medium=67.15  Few=0.00
+Epoch 40  lr=0.09226  CE=0.3098  SKCL=2.2543  TrainAcc=86.91
+Epoch 41  lr=0.09182  CE=0.3168  SKCL=2.2449  TrainAcc=87.11
+Epoch 42  lr=0.09138  CE=0.3301  SKCL=2.2649  TrainAcc=87.07
+Epoch 43  lr=0.09092  CE=0.3167  SKCL=2.2112  TrainAcc=87.19
+Epoch 44  lr=0.09045  CE=0.3075  SKCL=2.2625  TrainAcc=87.94
+Epoch 45  lr=0.08997  CE=0.2891  SKCL=2.1663  TrainAcc=88.77
+Epoch 46  lr=0.08948  CE=0.2899  SKCL=2.2258  TrainAcc=88.32
+Epoch 47  lr=0.08898  CE=0.2858  SKCL=2.2173  TrainAcc=89.26
+Epoch 48  lr=0.08847  CE=0.2787  SKCL=2.1988  TrainAcc=88.66
+Epoch 49  lr=0.08795  CE=0.2957  SKCL=2.2127  TrainAcc=88.72  || Test Top1=63.87  Many=66.44  Medium=53.60  Few=0.00
+Epoch 50  lr=0.08743  CE=0.2893  SKCL=2.1710  TrainAcc=88.69
+Epoch 51  lr=0.08689  CE=0.2611  SKCL=2.1694  TrainAcc=89.40
+Epoch 52  lr=0.08634  CE=0.2629  SKCL=2.1432  TrainAcc=89.51
+Epoch 53  lr=0.08578  CE=0.2418  SKCL=2.0896  TrainAcc=90.20
+Epoch 54  lr=0.08521  CE=0.2613  SKCL=2.1564  TrainAcc=89.56
+Epoch 55  lr=0.08464  CE=0.2597  SKCL=2.1480  TrainAcc=89.71
+Epoch 56  lr=0.08405  CE=0.2596  SKCL=2.1126  TrainAcc=89.98
+Epoch 57  lr=0.08346  CE=0.2309  SKCL=2.1243  TrainAcc=91.13
+Epoch 58  lr=0.08285  CE=0.2446  SKCL=2.1061  TrainAcc=90.62
+Epoch 59  lr=0.08224  CE=0.2342  SKCL=2.0904  TrainAcc=90.70  || Test Top1=71.63  Many=70.88  Medium=74.65  Few=0.00
+Epoch 60  lr=0.08162  CE=0.2365  SKCL=2.0932  TrainAcc=90.89
+Epoch 61  lr=0.08099  CE=0.2196  SKCL=2.0813  TrainAcc=91.52
+Epoch 62  lr=0.08036  CE=0.2180  SKCL=2.0395  TrainAcc=91.12
+Epoch 63  lr=0.07971  CE=0.2119  SKCL=2.0749  TrainAcc=92.06
+Epoch 64  lr=0.07906  CE=0.2120  SKCL=2.0593  TrainAcc=91.83
+Epoch 65  lr=0.07840  CE=0.2111  SKCL=2.0066  TrainAcc=92.23
+Epoch 66  lr=0.07774  CE=0.1951  SKCL=2.0095  TrainAcc=91.71
+Epoch 67  lr=0.07706  CE=0.2233  SKCL=2.0654  TrainAcc=91.48
+Epoch 68  lr=0.07638  CE=0.2138  SKCL=2.0770  TrainAcc=91.60
+Epoch 69  lr=0.07569  CE=0.2089  SKCL=2.0253  TrainAcc=91.90  || Test Top1=74.59  Many=76.54  Medium=66.80  Few=0.00
+Epoch 70  lr=0.07500  CE=0.1772  SKCL=1.9946  TrainAcc=92.81
+Epoch 71  lr=0.07430  CE=0.1894  SKCL=1.9925  TrainAcc=92.57
+Epoch 72  lr=0.07359  CE=0.1925  SKCL=2.0350  TrainAcc=92.42
+Epoch 73  lr=0.07288  CE=0.1871  SKCL=1.9928  TrainAcc=92.87
+Epoch 74  lr=0.07216  CE=0.1770  SKCL=1.9780  TrainAcc=92.96
+Epoch 75  lr=0.07143  CE=0.1764  SKCL=1.9562  TrainAcc=93.16
+Epoch 76  lr=0.07070  CE=0.1527  SKCL=1.9718  TrainAcc=93.67
+Epoch 77  lr=0.06997  CE=0.1808  SKCL=1.9573  TrainAcc=93.08
+Epoch 78  lr=0.06923  CE=0.1704  SKCL=1.9408  TrainAcc=93.68
+Epoch 79  lr=0.06848  CE=0.1645  SKCL=1.9633  TrainAcc=93.22  || Test Top1=67.68  Many=74.60  Medium=40.00  Few=0.00
+Epoch 80  lr=0.06773  CE=0.1775  SKCL=1.9337  TrainAcc=93.66
+Epoch 81  lr=0.06697  CE=0.1534  SKCL=1.9208  TrainAcc=93.64
+Epoch 82  lr=0.06621  CE=0.1481  SKCL=1.9199  TrainAcc=94.29
+Epoch 83  lr=0.06545  CE=0.1367  SKCL=1.8925  TrainAcc=94.47
+Epoch 84  lr=0.06468  CE=0.1563  SKCL=1.8956  TrainAcc=94.03
+Epoch 85  lr=0.06391  CE=0.1404  SKCL=1.9141  TrainAcc=94.49
+Epoch 86  lr=0.06314  CE=0.1487  SKCL=1.9060  TrainAcc=94.20
+Epoch 87  lr=0.06236  CE=0.1325  SKCL=1.8713  TrainAcc=94.86
+Epoch 88  lr=0.06157  CE=0.1403  SKCL=1.9099  TrainAcc=94.57
+Epoch 89  lr=0.06079  CE=0.1545  SKCL=1.8965  TrainAcc=94.17  || Test Top1=69.88  Many=74.84  Medium=50.05  Few=0.00
+Epoch 90  lr=0.06000  CE=0.1328  SKCL=1.8634  TrainAcc=94.64
+Epoch 91  lr=0.05921  CE=0.1157  SKCL=1.8383  TrainAcc=95.43
+Epoch 92  lr=0.05842  CE=0.1108  SKCL=1.8661  TrainAcc=95.43
+Epoch 93  lr=0.05762  CE=0.1226  SKCL=1.8326  TrainAcc=95.58
+Epoch 94  lr=0.05683  CE=0.1094  SKCL=1.8302  TrainAcc=95.22
+Epoch 95  lr=0.05603  CE=0.1163  SKCL=1.8195  TrainAcc=95.71
+Epoch 96  lr=0.05523  CE=0.1100  SKCL=1.8406  TrainAcc=95.72
+Epoch 97  lr=0.05442  CE=0.1254  SKCL=1.8606  TrainAcc=95.23
+Epoch 98  lr=0.05362  CE=0.1138  SKCL=1.8295  TrainAcc=95.61
+Epoch 99  lr=0.05282  CE=0.1086  SKCL=1.8056  TrainAcc=95.65  || Test Top1=68.27  Many=73.42  Medium=47.65  Few=0.00
+Epoch 100  lr=0.05201  CE=0.1083  SKCL=1.7943  TrainAcc=95.74
+Epoch 101  lr=0.05121  CE=0.0959  SKCL=1.7724  TrainAcc=96.29
+Epoch 102  lr=0.05040  CE=0.0893  SKCL=1.7777  TrainAcc=96.17
+Epoch 103  lr=0.04960  CE=0.0845  SKCL=1.7509  TrainAcc=96.39
+Epoch 104  lr=0.04879  CE=0.0848  SKCL=1.7677  TrainAcc=96.53
+Epoch 105  lr=0.04799  CE=0.0901  SKCL=1.7542  TrainAcc=96.63
+Epoch 106  lr=0.04718  CE=0.0860  SKCL=1.7448  TrainAcc=96.83
+Epoch 107  lr=0.04638  CE=0.0820  SKCL=1.7527  TrainAcc=96.59
+Epoch 108  lr=0.04558  CE=0.0773  SKCL=1.7352  TrainAcc=97.02
+Epoch 109  lr=0.04477  CE=0.0803  SKCL=1.7016  TrainAcc=96.80  || Test Top1=70.24  Many=74.30  Medium=54.00  Few=0.00
+Epoch 110  lr=0.04397  CE=0.0836  SKCL=1.7204  TrainAcc=96.72
+Epoch 111  lr=0.04317  CE=0.0663  SKCL=1.7010  TrainAcc=97.45
+Epoch 112  lr=0.04238  CE=0.0651  SKCL=1.6803  TrainAcc=97.43
+Epoch 113  lr=0.04158  CE=0.0613  SKCL=1.6919  TrainAcc=97.62
+Epoch 114  lr=0.04079  CE=0.0741  SKCL=1.7385  TrainAcc=97.11
+Epoch 115  lr=0.04000  CE=0.0769  SKCL=1.7186  TrainAcc=96.95
+Epoch 116  lr=0.03921  CE=0.0612  SKCL=1.6844  TrainAcc=97.45
+Epoch 117  lr=0.03843  CE=0.0650  SKCL=1.6878  TrainAcc=97.62
+Epoch 118  lr=0.03764  CE=0.0585  SKCL=1.6588  TrainAcc=97.52
+Epoch 119  lr=0.03686  CE=0.0525  SKCL=1.6536  TrainAcc=97.95  || Test Top1=73.68  Many=77.94  Medium=56.65  Few=0.00
+Epoch 120  lr=0.03609  CE=0.0447  SKCL=1.6193  TrainAcc=98.17
+Epoch 121  lr=0.03532  CE=0.0563  SKCL=1.6359  TrainAcc=97.74
+Epoch 122  lr=0.03455  CE=0.0581  SKCL=1.6612  TrainAcc=97.69
+Epoch 123  lr=0.03379  CE=0.0434  SKCL=1.5830  TrainAcc=98.17
+Epoch 124  lr=0.03303  CE=0.0508  SKCL=1.6114  TrainAcc=98.06
+Epoch 125  lr=0.03227  CE=0.0484  SKCL=1.5996  TrainAcc=97.92
+Epoch 126  lr=0.03152  CE=0.0507  SKCL=1.6418  TrainAcc=97.84
+Epoch 127  lr=0.03077  CE=0.0420  SKCL=1.6112  TrainAcc=98.36
+Epoch 128  lr=0.03003  CE=0.0384  SKCL=1.5771  TrainAcc=98.52
+Epoch 129  lr=0.02930  CE=0.0338  SKCL=1.5787  TrainAcc=98.68  || Test Top1=72.51  Many=77.41  Medium=52.90  Few=0.00
+Epoch 130  lr=0.02857  CE=0.0393  SKCL=1.6136  TrainAcc=98.55
+Epoch 131  lr=0.02784  CE=0.0348  SKCL=1.5716  TrainAcc=98.60
+Epoch 132  lr=0.02712  CE=0.0303  SKCL=1.5611  TrainAcc=98.73
+Epoch 133  lr=0.02641  CE=0.0333  SKCL=1.5579  TrainAcc=98.68
+Epoch 134  lr=0.02570  CE=0.0271  SKCL=1.5615  TrainAcc=98.90
+Epoch 135  lr=0.02500  CE=0.0281  SKCL=1.5515  TrainAcc=98.76
+Epoch 136  lr=0.02431  CE=0.0305  SKCL=1.5574  TrainAcc=98.70
+Epoch 137  lr=0.02362  CE=0.0302  SKCL=1.5454  TrainAcc=98.83
+Epoch 138  lr=0.02294  CE=0.0302  SKCL=1.5265  TrainAcc=98.97
+Epoch 139  lr=0.02226  CE=0.0244  SKCL=1.5110  TrainAcc=99.18  || Test Top1=73.51  Many=79.06  Medium=51.30  Few=0.00
+Epoch 140  lr=0.02160  CE=0.0239  SKCL=1.4997  TrainAcc=99.15
+Epoch 141  lr=0.02094  CE=0.0183  SKCL=1.5101  TrainAcc=99.19
+Epoch 142  lr=0.02029  CE=0.0181  SKCL=1.4779  TrainAcc=99.25
+Epoch 143  lr=0.01964  CE=0.0178  SKCL=1.4695  TrainAcc=99.24
+Epoch 144  lr=0.01901  CE=0.0168  SKCL=1.4820  TrainAcc=99.34
+Epoch 145  lr=0.01838  CE=0.0184  SKCL=1.4990  TrainAcc=99.19
+Epoch 146  lr=0.01776  CE=0.0158  SKCL=1.4620  TrainAcc=99.41
+Epoch 147  lr=0.01715  CE=0.0136  SKCL=1.4446  TrainAcc=99.47
+Epoch 148  lr=0.01654  CE=0.0127  SKCL=1.4465  TrainAcc=99.48
+Epoch 149  lr=0.01595  CE=0.0131  SKCL=1.4508  TrainAcc=99.37  || Test Top1=73.57  Many=78.04  Medium=55.70  Few=0.00
+Epoch 150  lr=0.01536  CE=0.0122  SKCL=1.4369  TrainAcc=99.50
+Epoch 151  lr=0.01479  CE=0.0117  SKCL=1.4267  TrainAcc=99.54
+Epoch 152  lr=0.01422  CE=0.0126  SKCL=1.4239  TrainAcc=99.54
+Epoch 153  lr=0.01366  CE=0.0097  SKCL=1.3907  TrainAcc=99.61
+Epoch 154  lr=0.01311  CE=0.0113  SKCL=1.4068  TrainAcc=99.58
+Epoch 155  lr=0.01257  CE=0.0083  SKCL=1.3841  TrainAcc=99.69
+Epoch 156  lr=0.01205  CE=0.0094  SKCL=1.3833  TrainAcc=99.52
+Epoch 157  lr=0.01153  CE=0.0091  SKCL=1.3966  TrainAcc=99.55
+Epoch 158  lr=0.01102  CE=0.0073  SKCL=1.3657  TrainAcc=99.63
+Epoch 159  lr=0.01052  CE=0.0063  SKCL=1.3835  TrainAcc=99.75  || Test Top1=75.15  Many=79.67  Medium=57.05  Few=0.00
+Epoch 160  lr=0.01003  CE=0.0079  SKCL=1.3719  TrainAcc=99.66
+Epoch 161  lr=0.00955  CE=0.0055  SKCL=1.3551  TrainAcc=99.80
+Epoch 162  lr=0.00908  CE=0.0057  SKCL=1.3445  TrainAcc=99.76
+Epoch 163  lr=0.00862  CE=0.0053  SKCL=1.3686  TrainAcc=99.78
+Epoch 164  lr=0.00818  CE=0.0050  SKCL=1.3378  TrainAcc=99.80
+Epoch 165  lr=0.00774  CE=0.0037  SKCL=1.3337  TrainAcc=99.86
+Epoch 166  lr=0.00732  CE=0.0050  SKCL=1.3506  TrainAcc=99.82
+Epoch 167  lr=0.00690  CE=0.0033  SKCL=1.3506  TrainAcc=99.87
+Epoch 168  lr=0.00650  CE=0.0038  SKCL=1.3429  TrainAcc=99.90
+Epoch 169  lr=0.00611  CE=0.0046  SKCL=1.3370  TrainAcc=99.80  || Test Top1=74.51  Many=79.10  Medium=56.15  Few=0.00
+Epoch 170  lr=0.00573  CE=0.0036  SKCL=1.3442  TrainAcc=99.85
+Epoch 171  lr=0.00536  CE=0.0038  SKCL=1.3310  TrainAcc=99.82
+Epoch 172  lr=0.00500  CE=0.0037  SKCL=1.3291  TrainAcc=99.80
+Epoch 173  lr=0.00466  CE=0.0043  SKCL=1.3200  TrainAcc=99.78
+Epoch 174  lr=0.00432  CE=0.0032  SKCL=1.3088  TrainAcc=99.89
+Epoch 175  lr=0.00400  CE=0.0027  SKCL=1.3096  TrainAcc=99.86
+Epoch 176  lr=0.00369  CE=0.0021  SKCL=1.3128  TrainAcc=99.93
+Epoch 177  lr=0.00339  CE=0.0014  SKCL=1.3068  TrainAcc=99.95
+Epoch 178  lr=0.00311  CE=0.0027  SKCL=1.3160  TrainAcc=99.85
+Epoch 179  lr=0.00283  CE=0.0022  SKCL=1.3100  TrainAcc=99.85  || Test Top1=74.31  Many=79.42  Medium=53.85  Few=0.00
+Epoch 180  lr=0.00257  CE=0.0018  SKCL=1.3158  TrainAcc=99.88
+Epoch 181  lr=0.00232  CE=0.0020  SKCL=1.2989  TrainAcc=99.94
+Epoch 182  lr=0.00209  CE=0.0023  SKCL=1.2730  TrainAcc=99.91
+Epoch 183  lr=0.00186  CE=0.0016  SKCL=1.2904  TrainAcc=99.98
+Epoch 184  lr=0.00165  CE=0.0022  SKCL=1.2817  TrainAcc=99.90
+Epoch 185  lr=0.00145  CE=0.0017  SKCL=1.3016  TrainAcc=99.91
+Epoch 186  lr=0.00127  CE=0.0020  SKCL=1.2831  TrainAcc=99.93
+Epoch 187  lr=0.00109  CE=0.0014  SKCL=1.2878  TrainAcc=99.93
+Epoch 188  lr=0.00093  CE=0.0016  SKCL=1.2890  TrainAcc=99.94
+Epoch 189  lr=0.00078  CE=0.0017  SKCL=1.2867  TrainAcc=99.93  || Test Top1=75.03  Many=80.19  Medium=54.40  Few=0.00
+Epoch 190  lr=0.00065  CE=0.0011  SKCL=1.2753  TrainAcc=99.98
+Epoch 191  lr=0.00052  CE=0.0010  SKCL=1.2803  TrainAcc=99.97
+Epoch 192  lr=0.00041  CE=0.0014  SKCL=1.2892  TrainAcc=99.91
+Epoch 193  lr=0.00032  CE=0.0014  SKCL=1.2902  TrainAcc=99.93
+Epoch 194  lr=0.00023  CE=0.0014  SKCL=1.2829  TrainAcc=99.91
+Epoch 195  lr=0.00016  CE=0.0015  SKCL=1.2714  TrainAcc=99.93
+Epoch 196  lr=0.00010  CE=0.0013  SKCL=1.2692  TrainAcc=99.93
+Epoch 197  lr=0.00006  CE=0.0017  SKCL=1.2800  TrainAcc=99.91
+Epoch 198  lr=0.00003  CE=0.0017  SKCL=1.3045  TrainAcc=99.93
+Epoch 199  lr=0.00001  CE=0.0015  SKCL=1.2790  TrainAcc=99.92  || Test Top1=75.19  Many=80.34  Medium=54.60  Few=0.00
+
+Best Top-1: 75.19
